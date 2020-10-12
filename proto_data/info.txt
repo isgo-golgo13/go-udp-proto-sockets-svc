@@ -1,0 +1,2 @@
+#This directory holds the produced .proto go structures for the client and the server.
+
